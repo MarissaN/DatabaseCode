@@ -1,7 +1,7 @@
-# DatabaseCode
+# Database - 470
 --------------
-Implementaion of database concepts (Contains work done in Fall 2024 class)
--basic SQL comands 
+Implementation of database concepts (Contains work done in Fall 2024 class)
+-basic SQL commands 
 -file organization - b tree, hash tables, cluster 
--create views and privilages for users 
--final group project write up
+-create views and privileges for users 
+
